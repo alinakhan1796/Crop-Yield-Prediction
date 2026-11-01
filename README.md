@@ -550,17 +550,6 @@ Possible future improvements include:
 - Additional environmental features
 - Larger and more recent datasets
 
----
-
-## 👨‍💻 Author
-
-**Aman Awasthi**
-
-GitHub:  
-https://github.com/amanawasthi-lang
-
-LinkedIn:  
-https://www.linkedin.com/in/aman-awasthi-b10886275/
 
 ---
 
