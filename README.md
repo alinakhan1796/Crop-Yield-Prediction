@@ -12,7 +12,7 @@ The project uses **Python, Pandas, NumPy, Scikit-learn, Joblib, and Streamlit** 
 
 ## 💻 GitHub Repository
 
-👉 https://github.com/alinakhan1796/Crop-Yield-Prediction
+👉 https://github.com/ak1796/Crop-Yield-Prediction
 
 ---
 
